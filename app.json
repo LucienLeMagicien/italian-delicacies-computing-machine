@@ -1,0 +1,6 @@
+{
+  "name": "Petit outil coupant",
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
